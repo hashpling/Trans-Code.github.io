@@ -23,7 +23,7 @@ London, EC4N 4TQ
 </b></p>
 <p><b>Website: </b><a href="http://trans-code.github.io">http://trans-code.github.io</a></p>
 <p><b>Sponsors:</b></p>
-<p>GoCardless &#8211; Venue Sponsor</p>
+<p>Bloomberg &#8211; Venue Sponsor</p>
 
 
 <p><b>Contact:</b></p>
